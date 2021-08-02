@@ -1,4 +1,4 @@
-package ttt;   
+package ttt;    
 
 import java.awt.Color;
 import java.awt.GridLayout;
